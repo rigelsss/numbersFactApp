@@ -1,0 +1,2 @@
+C:/Users/rigel/OneDrive/Desktop/numbers_app/numbers_fact_app/android/app/.cxx/Debug/h733n4x3/x86/CMakeFiles/edit_cache.dir
+C:/Users/rigel/OneDrive/Desktop/numbers_app/numbers_fact_app/android/app/.cxx/Debug/h733n4x3/x86/CMakeFiles/rebuild_cache.dir
